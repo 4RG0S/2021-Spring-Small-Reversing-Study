@@ -1,10 +1,14 @@
 # 2021-Spring-Small-Reversing-Study
 - 소소하게 리버싱 공부 방법을 탐구하는 팀
-- 리버싱을 공부하기 전 어떻게 공부를 해야하는지 탐구하고 자료 작성 및 공유
-- 주제
-  - How to 리버싱 입문
-  - C vs Assembly
-  - Memory?!
-
-- 운영방식
-  - 격주로 1회 탐구한 내용 자료 작성 및 공유
+-
+-
+-
+- 1일차(6/21)
+  - [리버싱 이 정도는 알아야지 영상] Section 0 ~ 1 시청
+  - Visual Studio Community 설치하기 
+  - PEview, ollydbg 다운로드
+  - 실습 파일 Sample.exe 실행 및 분석
+-
+- 2일차(6/22)
+  - 1일차 복습
+  - Section 3 ~ 4 시청 및 실습
